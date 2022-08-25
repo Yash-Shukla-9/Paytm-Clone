@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sec6{
+
+background-image: url(./Images/sec6-bg.webp);
+
+
+}
